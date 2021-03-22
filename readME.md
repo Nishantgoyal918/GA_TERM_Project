@@ -17,5 +17,5 @@
 4) ray
 
 
-https://openai.com/blog/evolution-strategies/
+https://openai.com/blog/evolution-strategies/ <br />
 https://towardsdatascience.com/reinforcement-learning-without-gradients-evolving-agents-using-genetic-algorithms-8685817d84f
