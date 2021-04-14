@@ -1,0 +1,8 @@
+*.pyc
+.idea
+*.log
+*.out
+data
+submit.py
+neat/
+log/
